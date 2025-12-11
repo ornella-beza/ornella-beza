@@ -1,6 +1,6 @@
 <!-- Anime Header -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="hi" />
+  <img src="<div class="tenor-gif-embed" data-postid="14779987" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cats-computer-hack-anon-anonymous-gif-14779987">Cats Computer GIF</a>from <a href="https://tenor.com/search/cats-gifs">Cats GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" alt="hi" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Ornella</h1>
