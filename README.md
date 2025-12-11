@@ -1,7 +1,8 @@
 <!-- Anime Header -->
 <p align="center">
-  <img src="https://media.tenor.com/6oO3DqMJG3cAAAAC/cats-computer-hack.gif" alt="Cats Computer GIF" width="400"/>
+  <img src="https://raw.githubusercontent.com/ornella-beza/ornella-beza/main/cat-computer.gif" alt="Cats Computer GIF" width="400"/>
 </p>
+
 
 <h1 align="center">👋 Hi, I'm Ornella</h1>
 <h3 align="center">💻 Last-year Networking Student | Web & App Developer from Kigali, Rwanda</h3>
