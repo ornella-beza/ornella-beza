@@ -35,11 +35,10 @@ When I'm not coding, you’ll find me **exploring new places, hiking, or enjoyin
 ## 🎯 Hobbies & Interests  
 - 🍲 Foodie & trying new dishes  
 - 🌄 Visiting new places & hiking  
-- 🎵 Anime & cool animations  
+- 🎵 Love music 
 - 📚 Learning new tech & improving skills  
 
-> _"Life is like coding — sometimes challenging, but always worth it!"_ ✨  
-
+> _"I can do all things through Christ who strengthens me." – Philippians 4:13_ ✨
 ---
 
 ## 📬 Contact Me  
@@ -60,15 +59,6 @@ When I'm not coding, you’ll find me **exploring new places, hiking, or enjoyin
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ornella-beza&theme=onedark&no-frame=true&margin-w=15&margin-h=10&row=1&column=6" />
-</p>
-
----
-
-## 🤝 Connect with Me  
-<p align="center">
-  <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
