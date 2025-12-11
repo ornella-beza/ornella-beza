@@ -1,6 +1,6 @@
 <!-- Anime Header -->
 <p align="center">
-  <img src="<div class="tenor-gif-embed" data-postid="14779987" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cats-computer-hack-anon-anonymous-gif-14779987">Cats Computer GIF</a>from <a href="https://tenor.com/search/cats-gifs">Cats GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" alt="hi" />
+  <img src="https://media.tenor.com/6oO3DqMJG3cAAAAC/cats-computer-hack.gif" alt="Cats Computer GIF" width="400"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Ornella</h1>
@@ -12,6 +12,8 @@
 I'm a **final-year Bachelor’s student in Networking**, passionate about coding and web development.  
 I love building web and app projects using **HTML, CSS, JavaScript, Firebase, and Supabase**.  
 When I'm not coding, you’ll find me **exploring new places, hiking, or enjoying good food**.  
+
+> _"I can do all things through Christ who strengthens me." – Philippians 4:13_ ✨
 
 ---
 
@@ -35,10 +37,9 @@ When I'm not coding, you’ll find me **exploring new places, hiking, or enjoyin
 ## 🎯 Hobbies & Interests  
 - 🍲 Foodie & trying new dishes  
 - 🌄 Visiting new places & hiking  
-- 🎵 Love music 
+- 🎵 Love music  
 - 📚 Learning new tech & improving skills  
 
-> _"I can do all things through Christ who strengthens me." – Philippians 4:13_ ✨
 ---
 
 ## 📬 Contact Me  
